@@ -4,7 +4,44 @@
 Zemāk ir vieta priekš 20 jautājumiem par Latviju. Izveidojiet jautājumu un saglabājiet izmaiņas.  
 
 ## Kā veikt izmaiņas?  
+**Kopē projektu**  
+Datorā izveidojām jaunu direktoriju "Source" direktorijā "Documents".  
+Jaunā direktorijā atvēram komandrindu - laba peles poga, Git Bash here.  
+Kopējam repozitoriju ar komandu  
 
+```
+git clone git@github.com:19th/latvia-quiz.git
+```
+**Koda redaktors**  
+Atvēram VS Code koda redaktoru un atrodam projekta direktoriju File -> Open project.  
+Veicam izmaiņas zem jautājuma ar savu numuru.
+
+**Saglabājam izmaiņas**  
+
+Atjauno informāciju no servera par izmaiņam  
+```
+git fetch
+```
+  
+Lejupielāde izmaiņas no servera  
+```
+git pull
+```
+  
+Pievieno visus failus pie saglabātam izmaiņam
+```
+git add .
+```
+  
+Izveido izmaiņu sarakstu (var būt vairāki faili) un apraksta izmaiņu būtību
+```
+git commit -m "Pievienots jauns jautājums"
+```
+  
+Nosūta izmaiņas uz servera
+```
+git push
+```
 
 ## Jautājumi
 
