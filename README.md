@@ -1,2 +1,3 @@
-# latvia-quizz
-20 quiz questions about Latvia, celebrating Latvia independence
+# Latvia Quizz
+20 viktorīnas jautājumi par Latviju, par godu Latvijas neatkarības svētkiem
+
