@@ -3,7 +3,7 @@
   
 Zemāk ir vieta priekš 20 jautājumiem par Latviju. Izveidojiet jautājumu un saglabājiet izmaiņas.  
 
-## Kā veikt izmaiņas?  
+## Uzdevums  
 **Kopē projektu**  
 Datorā izveidojām jaunu direktoriju "Source" direktorijā "Documents".  
 Jaunā direktorijā atvēram komandrindu - laba peles poga, Git Bash here.  
@@ -12,6 +12,14 @@ Kopējam repozitoriju ar komandu
 ```
 git clone git@github.com:19th/latvia-quiz.git
 ```
+
+
+**Token**  
+Jāsaņem token.  
+Github -> Profile -> Settings -> Developer Settings -> Personal Access Tokens -> Tokens (classic).  
+Generate new token, atzīme visus "repo".  
+  
+
 **Koda redaktors**  
 Atvēram VS Code koda redaktoru un atrodam projekta direktoriju File -> Open project.  
 Veicam izmaiņas zem jautājuma ar savu numuru.
@@ -25,7 +33,7 @@ git fetch
   
 Lejupielāde izmaiņas no servera  
 ```
-git pull
+git pull --rebase
 ```
   
 Pievieno visus failus pie saglabātam izmaiņam
