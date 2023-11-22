@@ -88,7 +88,7 @@ Pareiza atbilde: 105
   
   
 ### 14. Brīvības pieminekļa augstums  
-  
+
   
 ### 15. Policijas telefona numurs  
   

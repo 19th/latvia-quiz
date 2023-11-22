@@ -82,9 +82,9 @@ questions = [
     },
     # 14
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "JKāds ir Brīvības pieminekļa augstums(m) ?",
+        "options": ["95","42","100000000","45"],
+        "correct_answer": "42"
     },
     # 15
     {
