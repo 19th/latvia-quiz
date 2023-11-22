@@ -10,7 +10,7 @@ Jaunā direktorijā atvēram komandrindu - laba peles poga, Git Bash here.
 Kopējam repozitoriju ar komandu  
 
 ```
-git clone git@github.com:19th/latvia-quiz.git
+git clone https://github.com/19th/latvia-quiz
 ```
 **Koda redaktors**  
 Atvēram VS Code koda redaktoru un atrodam projekta direktoriju File -> Open project.  
@@ -64,10 +64,12 @@ Pareiza atbilde: 105
   
   
 ### 6. Jūras robežas garums
-  
+Jautājums: Cik garšs(km) ir Latvijas jūras robežas garums?
+Opcijas: 498, 515, 455, 321
+Pareiza atbilde: 498
   
 ### 7. Ceturtā pilsēta pēc iedzīvotāju skaita  
-  
+
   
 ### 8. Nobela prēmijas laureāts dzimis Latvijā  
   
