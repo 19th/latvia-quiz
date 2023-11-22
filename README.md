@@ -58,7 +58,9 @@ Pareiza atbilde: 105
   
   
 ### 4. Latvijas jūras robežas garums
-
+Jautājums: Cik gadi ir pagājuši kopš Latvijas Republikas proklamēšanas?
+Opcijas: 289, 500, 498, 345
+Pareiza atbilde: 498
   
 ### 5. Iestāšanas ES gads
   

@@ -22,9 +22,9 @@ questions = [
     },
     # 4
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Cik gara ir Latvijas jūras robeža (km)?",
+        "options": [289, 500, 498, 345],
+        "correct_answer": 498
     },
     # 5
     {
