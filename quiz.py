@@ -118,9 +118,9 @@ questions = [
     },
     # 20
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kāds ezers ir vislielākais Latgvijā?",
+        "options": ["Rāznas ezers", "Babītes ezers", "Lubānas ezers", "Baltezers"],
+        "correct_answer": "Lubānas ezers"
     },
 ]
 
