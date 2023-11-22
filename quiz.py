@@ -64,15 +64,15 @@ questions = [
     },
     # 11
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kad bija Baltijas ceļš? diena un mēnesis",
+        "options": ["19 augusts", "Vakar", "11 septembris", "23 augusts"],
+        "correct_answer": "23 augusts"
     },
     # 12
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kāda valsts platība?",
+        "options": [">5cm", "666min", "15cm", "27582 km"],
+        "correct_answer": ">5cm"
     },
     # 13
     {
