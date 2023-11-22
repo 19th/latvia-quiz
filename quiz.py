@@ -55,7 +55,7 @@ questions = [
         "question": "Skeletonists, kurš 11 reizes izcīnījis Pasaules kausu?",
         "options": ["Egils Levits","Janis Lembergs", "Martins Cukurs", "Martins Dukurs"],
         "correct_answer": "Martins Dukurs"
-    }
+    },
     # 10
     {
         "question": "Kuras no koordinātem ir Latvijā?",
