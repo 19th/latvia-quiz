@@ -16,9 +16,9 @@ questions = [
     },
     # 3
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kāds ir Latvijas augstākā kalna garums(aptuveni)?",
+        "options": [589, 312, 1246, 258],
+        "correct_answer": 312
     },
     # 4
     {
