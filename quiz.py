@@ -76,15 +76,15 @@ questions = [
     },
     # 13
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Izplatītākais koks Latvijas mežos",
+        "options": ["Bērzs","Priede", "Ozols","Egle"],
+        "correct_answer": 0
     },
     # 14
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Brīvības pieminekļa augstums",
+        "options": ["65","32","40","42"],
+        "correct_answer": 3
     },
     # 15
     {
