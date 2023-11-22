@@ -54,8 +54,8 @@ questions = [
     {
         "question": "Vai Ratmirs ir rat?",
         "options": ["Jā","Nē", "Tas ir Rihards", "Ratmirs ir ginger"],
-        "correct_answer": 3
-    },
+        "correct_answer": "Ratmirs ir ginger"
+    }
     # 10
     {
         "question": "",
@@ -88,15 +88,15 @@ questions = [
     },
     # 15
     {
-        "question": "Policijas telefona numurs",
-        "options": [112, 110, 911, 113],
-        "correct_answer": 110
+        "question": "",
+        "options": [""],
+        "correct_answer": ""
     },
     # 16
     {
-        "question": "Latvijas naudas vienības",
-        "options": ["lats", "dolarss", "eiro", "rubli", "vona"],
-        "correct_answer": "eiro"
+        "question": "",
+        "options": [""],
+        "correct_answer": ""
     },
     # 17
     {
