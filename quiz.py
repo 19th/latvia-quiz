@@ -28,15 +28,15 @@ questions = [
     },
     # 5
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kurā gadā Latvija pievienojās Eiropas Savienībai?",
+        "options": [1994, 2002, 2004, 2015],
+        "correct_answer": 2004
     },
     # 6
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kāds ir Latvijas jūras robežas garums?",
+        "options": [356, 498, 516, 245],
+        "correct_answer": 498
     },
     # 7
     {
