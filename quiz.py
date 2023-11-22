@@ -112,9 +112,9 @@ questions = [
     },
     # 19
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Cik krasas ir Latvijas karoga?",
+        "options": [1, 2, 3, 4],
+        "correct_answer": 2
     },
     # 20
     {
