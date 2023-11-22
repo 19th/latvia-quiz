@@ -28,9 +28,9 @@ questions = [
     },
     # 5
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kurā gadā Latvijas Republika iestājās Eiropas savienībā?",
+        "options": [1995., 2002., 2004., 2007.],
+        "correct_answer": 2004.
     },
     # 6
     {
