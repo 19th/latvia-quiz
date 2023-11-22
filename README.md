@@ -53,7 +53,10 @@ Pareiza atbilde: 105
 
 ### 2. Pilsētu skaits
 
-  
+Jautājums: Kāds ir pilsētu skaits Latvijas Republikā?
+Opcijas: 79, 81, 82, 84
+Pareiza atbilde: 81
+
 ### 3. Augstāka kalna garums
   
   
