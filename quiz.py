@@ -88,15 +88,15 @@ questions = [
     },
     # 15
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Policijas telefona numurs",
+        "options": [112, 110, 911, 113],
+        "correct_answer": 110
     },
     # 16
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Latvijas naudas vienības",
+        "options": ["lats", "dolarss", "eiro", "rubli", "vona"],
+        "correct_answer": "eiro"
     },
     # 17
     {
