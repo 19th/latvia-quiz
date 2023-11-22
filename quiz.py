@@ -40,9 +40,9 @@ questions = [
     },
     # 7
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kāda ir ceturtā pilsēta pēc iedzīvotāju skaita Latvijā?",
+        "options": ["Rīga","Jūrmala","Jelgava","Daugavpils"],
+        "correct_answer": "Jelgava"
     },
     # 8
     {
@@ -52,9 +52,9 @@ questions = [
     },
     # 9
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Skeletonists, kurš 11 reizes izcīnījis Pasaules kausu",
+        "options": ["Ivo Šteinbergs", "Martins Dukurs", "Tomass Dukurs"],
+        "correct_answer": "Martins Dukurs"
     },
     # 10
     {
