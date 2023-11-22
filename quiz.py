@@ -58,9 +58,9 @@ questions = [
     }
     # 10
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kuras no koordinātem ir Latvijā?",
+        "options": ["34.0, -118.0", "53.0 -8.0", "57.0 24.0", "36.0, 138.0"],
+        "correct_answer": "57.0 24.0"
     },
     # 11
     {
