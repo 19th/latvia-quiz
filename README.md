@@ -10,7 +10,7 @@ Jaunā direktorijā atvēram komandrindu - laba peles poga, Git Bash here.
 Kopējam repozitoriju ar komandu  
 
 ```
-git clone git@github.com:19th/latvia-quiz.git
+git clone https://github.com/19th/latvia-quiz
 ```
 
 
