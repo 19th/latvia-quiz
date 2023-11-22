@@ -52,9 +52,9 @@ questions = [
     },
     # 9
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Vai Ratmirs ir rat?",
+        "options": ["Jā","Nē", "Tas ir Rihards", "Ratmirs ir ginger"],
+        "correct_answer": 4
     },
     # 10
     {
