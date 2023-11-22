@@ -48,21 +48,22 @@ git push
 ### 1. Republikas proklamēšana (piemers)  
 
 Jautājums: Cik gadi ir pagājuši kopš Latvijas Republikas proklamēšanas?
+Opcijas: 95, 100, 105, 150  
 Pareiza atbilde: 105  
 
-### 2. Pilsētu skaits (cipars)  
+### 2. Pilsētu skaits
 
   
-### 3. Augstāka kalna garums (cipars)  
+### 3. Augstāka kalna garums
   
   
-### 4. Latvijas jūras robežas garums (izvēle)  
+### 4. Latvijas jūras robežas garums
 
   
-### 5. Iestāšanas ES gads (izvēle)  
+### 5. Iestāšanas ES gads
   
   
-### 6. Jūras robežas garums (izvēle)  
+### 6. Jūras robežas garums
   
   
 ### 7. Ceturtā pilsēta pēc iedzīvotāju skaita  
@@ -74,10 +75,10 @@ Pareiza atbilde: 105
 ### 9. Skeletonists, kurš 11 reizes izcīnījis Pasaules kausu  
   
   
-### 10. Vai dotas koordinātes ir Latvijā vai nē (jā/nē)  
+### 10. Kuras koordinātes ir Latvijā
   
   
-### 11. Baltijas ceļš, diena un mēnesis (datums)  
+### 11. Baltijas ceļš, diena un mēnesis 
   
   
 ### 12. Valsts platība  
