@@ -40,15 +40,15 @@ questions = [
     },
     # 7
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kāda ir Latvijas ceturtā pilsēta pēc iedzīvotāju skaita?",
+        "options": ["Rīga", "Daugavpils", "	Jelgava", "Liepāja"],
+        "correct_answer": "Jelgava"
     },
     # 8
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kāds nobela prēmijas laureāts dzimis Latvijā?",
+        "options": ["Vilhelms Ostvalds", "Valērijs Karklins", "Mikhail Kutuzov", "Ratmir Kutuzov"],
+        "correct_answer": "Vilhelms Ostvalds"
     },
     # 9
     {
