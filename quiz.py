@@ -106,9 +106,9 @@ questions = [
     },
     # 18
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "kāds ir Ventas rumbas apmēramais platums vidēji",
+         "options": ["110-120 metri", "90-100 metri", "100-110 metri"],
+        "correct_answer": "100-110 metri"
     },
     # 19
     {
