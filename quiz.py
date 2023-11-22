@@ -70,9 +70,9 @@ questions = [
     },
     # 12
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Cik liela ir Latvijas paltība?",
+        "options": ["5 200 km²", "51 300 km²" , "18 705 km²", "64 589 km²"],
+        "correct_answer": "64 589 km²"
     },
     # 13
     {
