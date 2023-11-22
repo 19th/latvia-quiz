@@ -10,9 +10,9 @@ questions = [
     },
     # 2
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Cik pilsetu ir Latvijā?",
+        "options": [81, 87, 73, 79],
+        "correct_answer": 81
     },
     # 3
     {
