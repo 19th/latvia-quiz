@@ -88,9 +88,9 @@ questions = [
     },
     # 15
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kads ir policijas telefona numurs?",
+        "options": ["111","110","119","004","056","11"],
+        "correct_answer": "110"
     },
     # 16
     {
