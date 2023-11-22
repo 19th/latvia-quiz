@@ -88,15 +88,15 @@ questions = [
     },
     # 15
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Policijas telefona numurs",
+        "options": [112, 110, 911, 113],
+        "correct_answer": 110
     },
     # 16
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Latvijas naudas vienības",
+        "options": ["lats", "dolarss", "eiro", "rubli", "vona"],
+        "correct_answer": "eiro"
     },
     # 17
     {
@@ -112,15 +112,15 @@ questions = [
     },
     # 19
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kādas ir karoga krāsas?",
+        "options": ["balts un sarkans", "balts un fuksija", "balts un karmīnsarkans", "balts un koši sarkans",],
+        "correct_answer": "balts un karmīnsarkans"
     },
     # 20
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Lielākais ezers",
+        "options": ["sivers", "reznas", "lubāns", "engures"],
+        "correct_answer": "lubāns"
     },
 ]
 
