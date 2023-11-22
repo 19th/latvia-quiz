@@ -52,9 +52,9 @@ questions = [
     },
     # 9
     {
-        "question": "Vai Ratmirs ir rat?",
-        "options": ["Jā","Nē", "Tas ir Rihards", "Ratmirs ir ginger"],
-        "correct_answer": "Ratmirs ir ginger"
+        "question": "Skeletonists, kurš 11 reizes izcīnījis Pasaules kausu?",
+        "options": ["Egils Levits","Janis Lembergs", "Martins Cukurs", "Martins Dukurs"],
+        "correct_answer": "Martins Dukurs"
     }
     # 10
     {
