@@ -10,7 +10,7 @@ Jaunā direktorijā atvēram komandrindu - laba peles poga, Git Bash here.
 Kopējam repozitoriju ar komandu  
 
 ```
-git clone git@github.com:19th/latvia-quiz.git
+git clone https://github.com/19th/latvia-quiz
 ```
 **Koda redaktors**  
 Atvēram VS Code koda redaktoru un atrodam projekta direktoriju File -> Open project.  
