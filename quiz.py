@@ -16,9 +16,9 @@ questions = [
     },
     # 3
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kāds ir Latvijas augstākā kalna garums(aptuveni)?",
+        "options": [589, 312, 1246, 258],
+        "correct_answer": 312
     },
     # 4
     {
@@ -40,8 +40,8 @@ questions = [
     },
     # 7
     {
-        "question": "Kāda ir ceturtā pilsēta pēc iedzīvotāju skaita Latvijā?",
-        "options": ["Rīga","Jūrmala","Jelgava","Daugavpils"],
+        "question": "Ceturtā pilsēta pēc iedzīvotāju skaita",
+        "options": ["Ventspils", "Jūrmala", "Jelgava", "Liepāja"],
         "correct_answer": "Jelgava"
     },
     # 8
@@ -52,9 +52,9 @@ questions = [
     },
     # 9
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Skeletonists, kurš 11 reizes izcīnījis Pasaules kausu",
+        "options": ["Ivo Šteinbergs", "Martins Dukurs", "Tomass Dukurs"],
+        "correct_answer": "Martins Dukurs"
     },
     # 10
     {
@@ -106,9 +106,9 @@ questions = [
     },
     # 18
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "kāds ir Ventas rumbas apmēramais platums vidēji",
+         "options": ["110-120 metri", "90-100 metri", "100-110 metri"],
+        "correct_answer": "100-110 metri"
     },
     # 19
     {
