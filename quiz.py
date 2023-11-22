@@ -54,7 +54,7 @@ questions = [
     {
         "question": "Vai Ratmirs ir rat?",
         "options": ["Jā","Nē", "Tas ir Rihards", "Ratmirs ir ginger"],
-        "correct_answer": 4
+        "correct_answer": 3
     },
     # 10
     {
