@@ -16,9 +16,9 @@ questions = [
     },
     # 3
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kāds ir Latvijas augstākā kalna garums(aptuveni)?",
+        "options": [589, 312, 1246, 258],
+        "correct_answer": 312
     },
     # 4
     {
@@ -58,9 +58,9 @@ questions = [
     },
     # 10
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+    "question": "Kuras koordinātas ir Latvijā",
+     "options": ["57.0° 24.0°, 56.0° 22.0°, 50.0° 30°, 60.0° 31.0°"],
+        "correct_answer": "57.0° 24.0°"
     },
     # 11
     {
@@ -118,9 +118,9 @@ questions = [
     },
     # 20
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kāds ezers ir vislielākais Latgvijā?",
+        "options": ["Rāznas ezers", "Babītes ezers", "Lubānas ezers", "Baltezers"],
+        "correct_answer": "Lubānas ezers"
     },
 ]
 
