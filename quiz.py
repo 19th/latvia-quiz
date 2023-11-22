@@ -16,15 +16,15 @@ questions = [
     },
     # 3
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kāds ir Latvijas lielākā kalna Gaiziņkalna augstums?(metros)",
+        "options": [400,350,250,300],
+        "correct_answer": "300"
     },
     # 4
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Cik gara ir Latvijas jūras robeža kilometros?",
+        "options": [500,450,400,550],
+        "correct_answer": "500"
     },
     # 5
     {
