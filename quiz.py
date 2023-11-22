@@ -16,9 +16,9 @@ questions = [
     },
     # 3
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kāds ir Latvijas augstākā kalna garums(aptuveni)?",
+        "options": [589, 312, 1246, 258],
+        "correct_answer": 312
     },
     # 4
     {
@@ -40,15 +40,9 @@ questions = [
     },
     # 7
     {
-<<<<<<< HEAD
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
-=======
         "question": "Ceturtā pilsēta pēc iedzīvotāju skaita",
         "options": ["Ventspils", "Jūrmala", "Jelgava", "Liepāja"],
         "correct_answer": "Jelgava"
->>>>>>> 55b9b77f774bfe93afc709e0dcfc782b9d55ce9d
     },
     # 8
     {
