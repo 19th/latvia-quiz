@@ -79,8 +79,9 @@ Pareiza atbilde: 105
   
   
 ### 11. Baltijas ceļš, diena un mēnesis 
-  
-  
+  Jautājums: Kurā datumā notika Baltijas ceļš?
+  Opcijas: 23.08.2023, 23.08.1989, 23.09.1989 , 23.08.1999
+  Atbilde: 23.08.1989
 ### 12. Valsts platība  
   
   

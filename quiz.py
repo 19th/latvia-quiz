@@ -64,9 +64,9 @@ questions = [
     },
     # 11
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kurā datumā notika Baltijas ceļš?",
+        "options": ["23.08.2023", "23.08.1989", "23.09.1989" , "23.08.1999"],
+        "correct_answer": "23.08.1989"
     },
     # 12
     {
