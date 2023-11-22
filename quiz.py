@@ -98,12 +98,6 @@ questions = [
         "options": [""],
         "correct_answer": ""
     },
-    # 16
-    {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
-    },
     # 17
     {
         "question": "",
