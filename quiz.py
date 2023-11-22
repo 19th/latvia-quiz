@@ -100,15 +100,15 @@ questions = [
     },
     # 17
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kāds bija Latvijas iedzīvotāju skaits uz 2022 gadu?",
+        "options": ["19", "1,876 miljoni", "1,609 miljoni", "739 miljoni"],
+        "correct_answer": "1,876 miljoni"
     },
     # 18
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kāda ir ūdenskrituma Ventas Rumba īpatnība?",
+        "options": ["Garākais", "Platākais", "Mitrākais", "Meow"],
+        "correct_answer": "Platākais"
     },
     # 19
     {
