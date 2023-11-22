@@ -64,12 +64,12 @@ Pareiza atbilde: 105
   
   
 ### 6. Jūras robežas garums
-  
+Jautājums: Cik garšs(km) ir Latvijas jūras robežas garums?
+Opcijas: 498, 515, 455, 321
+Pareiza atbilde: 498
   
 ### 7. Ceturtā pilsēta pēc iedzīvotāju skaita  
-Jautājums: Kāda ir ceturtā pilsēta pēc iedzīvotāju skaita Latvijā?
-Opcijas: Rīga, Jūrmala, Jelgava, Daugavpils
-Pareiza atbilde: Jelgava 
+
   
 ### 8. Nobela prēmijas laureāts dzimis Latvijā  
   

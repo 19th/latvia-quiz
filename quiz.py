@@ -34,15 +34,15 @@ questions = [
     },
     # 6
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Cik garšs(km) ir Latvijas jūras robežas garums?",
+        "options": [498, 515, 455, 321],
+        "correct_answer": 498
     },
     # 7
     {
-        "question": "Kāda ir ceturtā pilsēta pēc iedzīvotāju skaita Latvijā?",
-        "options": ["Rīga","Jūrmala","Jelgava","Daugavpils"],
-        "correct_answer": "Jelgava"
+        "question": "",
+        "options": [""],
+        "correct_answer": ""
     },
     # 8
     {
