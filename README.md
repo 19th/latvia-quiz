@@ -53,23 +53,34 @@ Pareiza atbilde: 105
 
 ### 2. Pilsētu skaits
 
-  
+Jautājums: Kāds ir pilsētu skaits Latvijas Republikā?
+Opcijas: 79, 81, 82, 84
+Pareiza atbilde: 81
+
 ### 3. Augstāka kalna garums
   
   
 ### 4. Latvijas jūras robežas garums
-
+Jautājums: Cik gadi ir pagājuši kopš Latvijas Republikas proklamēšanas?
+Opcijas: 289, 500, 498, 345
+Pareiza atbilde: 498
   
 ### 5. Iestāšanas ES gads
   
   
 ### 6. Jūras robežas garums
-  
+Jautājums: Cik garšs(km) ir Latvijas jūras robežas garums?
+Opcijas: 498, 515, 455, 321
+Pareiza atbilde: 498
   
 ### 7. Ceturtā pilsēta pēc iedzīvotāju skaita  
+
   
-  
-### 8. Nobela prēmijas laureāts dzimis Latvijā  
+### 8. Nobela prēmijas laureāts dzimis Latvijā
+
+Jautājums: Cik gadi bija Vilhelmam Ostvaldam, Nobela prēmijas laureātam, kad viņš nomira?
+Opcijas: 76, 77, 78, 79
+Pareiza atbilde: 78
   
   
 ### 9. Skeletonists, kurš 11 reizes izcīnījis Pasaules kausu  
@@ -79,8 +90,9 @@ Pareiza atbilde: 105
   
   
 ### 11. Baltijas ceļš, diena un mēnesis 
-  
-  
+  Jautājums: Kurā datumā notika Baltijas ceļš?
+  Opcijas: 23.08.2023, 23.08.1989, 23.09.1989 , 23.08.1999
+  Atbilde: 23.08.1989
 ### 12. Valsts platība  
   
   
