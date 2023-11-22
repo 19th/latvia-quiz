@@ -16,57 +16,57 @@ questions = [
     },
     # 3
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kāds ir Latvijas augstākā kalna garums(aptuveni)?",
+        "options": [589, 312, 1246, 258],
+        "correct_answer": 312
     },
     # 4
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Cik gara ir Latvijas jūras robeža (km)?",
+        "options": [289, 500, 498, 345],
+        "correct_answer": 498
     },
     # 5
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kurā gadā Latvijas Republika iestājās Eiropas savienībā?",
+        "options": [1995., 2002., 2004., 2007.],
+        "correct_answer": 2004.
     },
     # 6
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Cik garšs(km) ir Latvijas jūras robežas garums?",
+        "options": [498, 515, 455, 321],
+        "correct_answer": 498
     },
     # 7
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Ceturtā pilsēta pēc iedzīvotāju skaita",
+        "options": ["Ventspils", "Jūrmala", "Jelgava", "Liepāja"],
+        "correct_answer": "Jelgava"
     },
     # 8
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Cik gadi bija Vilhelmam Ostvaldam, Nobela prēmijas laureātam, kad viņš nomira?",
+        "options": [76, 77, 78, 79],
+        "correct_answer": 78
     },
     # 9
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Skeletonists, kurš 11 reizes izcīnījis Pasaules kausu",
+        "options": ["Ivo Šteinbergs", "Martins Dukurs", "Tomass Dukurs"],
+        "correct_answer": "Martins Dukurs"
     },
     # 10
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+    "question": "Kuras koordinātas ir Latvijā",
+     "options": ["57.0° 24.0°, 56.0° 22.0°, 50.0° 30°, 60.0° 31.0°"],
+        "correct_answer": "57.0° 24.0°"
     },
     # 11
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kurā datumā notika Baltijas ceļš?",
+        "options": ["23.08.2023", "23.08.1989", "23.09.1989" , "23.08.1999"],
+        "correct_answer": "23.08.1989"
     },
     # 12
     {
@@ -88,9 +88,9 @@ questions = [
     },
     # 15
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kads ir policijas telefona numurs?",
+        "options": ["111","110","119","004","056","11"],
+        "correct_answer": "110"
     },
     # 16
     {
@@ -106,21 +106,21 @@ questions = [
     },
     # 18
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "kāds ir Ventas rumbas apmēramais platums vidēji",
+         "options": ["110-120 metri", "90-100 metri", "100-110 metri"],
+        "correct_answer": "100-110 metri"
     },
     # 19
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Cik krasas ir Latvijas karoga?",
+        "options": [1, 2, 3, 4],
+        "correct_answer": 2
     },
     # 20
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Kāds ezers ir vislielākais Latgvijā?",
+        "options": ["Rāznas ezers", "Babītes ezers", "Lubānas ezers", "Baltezers"],
+        "correct_answer": "Lubānas ezers"
     },
 ]
 
