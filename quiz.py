@@ -46,9 +46,9 @@ questions = [
     },
     # 8
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Cik gadi bija Vilhelmam Ostvaldam, Nobela prēmijas laureātam, kad viņš nomira?",
+        "options": [76, 77, 78, 79],
+        "correct_answer": 78
     },
     # 9
     {

@@ -69,7 +69,11 @@ Pareiza atbilde: 105
 ### 7. Ceturtā pilsēta pēc iedzīvotāju skaita  
   
   
-### 8. Nobela prēmijas laureāts dzimis Latvijā  
+### 8. Nobela prēmijas laureāts dzimis Latvijā
+
+Jautājums: Cik gadi bija Vilhelmam Ostvaldam, Nobela prēmijas laureātam, kad viņš nomira?
+Opcijas: 76, 77, 78, 79
+Pareiza atbilde: 78
   
   
 ### 9. Skeletonists, kurš 11 reizes izcīnījis Pasaules kausu  
