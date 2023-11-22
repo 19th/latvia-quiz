@@ -40,9 +40,9 @@ questions = [
     },
     # 7
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Ceturtā pilsēta pēc iedzīvotāju skaita",
+        "options": ["Ventspils", "Jūrmala", "Jelgava", "Liepāja"],
+        "correct_answer": "Jelgava"
     },
     # 8
     {
