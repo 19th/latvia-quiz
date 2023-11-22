@@ -40,9 +40,15 @@ questions = [
     },
     # 7
     {
+<<<<<<< HEAD
         "question": "",
         "options": [""],
         "correct_answer": ""
+=======
+        "question": "Ceturtā pilsēta pēc iedzīvotāju skaita",
+        "options": ["Ventspils", "Jūrmala", "Jelgava", "Liepāja"],
+        "correct_answer": "Jelgava"
+>>>>>>> 55b9b77f774bfe93afc709e0dcfc782b9d55ce9d
     },
     # 8
     {
@@ -106,9 +112,9 @@ questions = [
     },
     # 18
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "kāds ir Ventas rumbas apmēramais platums vidēji",
+         "options": ["110-120 metri", "90-100 metri", "100-110 metri"],
+        "correct_answer": "100-110 metri"
     },
     # 19
     {
