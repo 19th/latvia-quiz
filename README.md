@@ -67,7 +67,9 @@ Pareiza atbilde: 105
   
   
 ### 7. Ceturtā pilsēta pēc iedzīvotāju skaita  
-  
+Jautājums: Kāda ir ceturtā pilsēta pēc iedzīvotāju skaita Latvijā?
+Opcijas: Rīga, Jūrmala, Jelgava, Daugavpils
+Pareiza atbilde: Jelgava 
   
 ### 8. Nobela prēmijas laureāts dzimis Latvijā  
   
