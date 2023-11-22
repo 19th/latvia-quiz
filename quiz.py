@@ -52,9 +52,9 @@ questions = [
     },
     # 9
     {
-        "question": "",
-        "options": [""],
-        "correct_answer": ""
+        "question": "Skeletonists, kurš 11 reizes izcīnījis Pasaules kausu",
+        "options": ["Ivo Šteinbergs", "Martins Dukurs", "Tomass Dukurs"],
+        "correct_answer": "Martins Dukurs"
     },
     # 10
     {
