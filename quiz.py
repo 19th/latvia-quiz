@@ -18,13 +18,13 @@ questions = [
     {
         "question": "Kāds ir Latvijas lielākā kalna Gaiziņkalna augstums?(metros)",
         "options": [400,350,250,300],
-        "correct_answer": "300"
+        "correct_answer": 300
     },
     # 4
     {
         "question": "Cik gara ir Latvijas jūras robeža kilometros?",
         "options": [500,450,400,550],
-        "correct_answer": "500"
+        "correct_answer": 500
     },
     # 5
     {
@@ -41,7 +41,7 @@ questions = [
     # 7
     {
         "question": "Kāda ir Latvijas ceturtā pilsēta pēc iedzīvotāju skaita?",
-        "options": ["Rīga", "Daugavpils", "	Jelgava", "Liepāja"],
+        "options": ["Rīga", "Daugavpils", "Jelgava", "Liepāja"],
         "correct_answer": "Jelgava"
     },
     # 8
