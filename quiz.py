@@ -128,6 +128,12 @@ questions = [
         "options": ["0", "1", "2", "3"],
         "correct_answer": "1"
     },
+    # 22
+    {
+        "question": "Test 4",
+        "options": ["0", "1", "2", "3"],
+        "correct_answer": "1"
+    },
 ]
 
 def run_quiz():
