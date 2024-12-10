@@ -126,7 +126,7 @@ questions = [
     {
         "question": "Test 2",
         "options": ["0", "1", "2", "3"],
-        "correct_answer": "lubāns"
+        "correct_answer": "1"
     },
 ]
 
