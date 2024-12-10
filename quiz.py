@@ -122,6 +122,12 @@ questions = [
         "options": ["sivers", "reznas", "lubāns", "engures"],
         "correct_answer": "lubāns"
     },
+    # 21
+    {
+        "question": "Test 2",
+        "options": ["0", "1", "2", "3"],
+        "correct_answer": "lubāns"
+    },
 ]
 
 def run_quiz():
